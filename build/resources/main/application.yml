@@ -9,6 +9,6 @@ spring:
     platform: mysql
     url: jdbc:mysql://database.ccnujuyzzot8.ap-northeast-2.rds.amazonaws.com:3306/UmcServer # 변경해주세요
     username:  admin
-    password:  hyunbin7231
+    password:  hyunbin7231 #이쪽 내용 나중에 다 변경해야하는거죠? 깃 테스트용 글입니다~!
     driver-class-name: com.mysql.cj.jdbc.Driver # mysql 8버전
     # driver-class-name: com.mysql.jdbc.Driver # mysql 5버전
